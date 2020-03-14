@@ -1,6 +1,6 @@
 
 
-class SmashBrosCLi::CLI
+class SmashBrosCLI::CLI
     def start 
         puts "Hello there!"
     end
