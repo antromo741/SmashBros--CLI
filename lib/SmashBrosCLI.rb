@@ -1,4 +1,4 @@
-#ENvironment file
+#Environment file
 # in here loads all the files
 
 
