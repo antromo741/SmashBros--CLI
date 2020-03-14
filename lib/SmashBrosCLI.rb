@@ -3,6 +3,7 @@
 
 
 require "SmashBrosCLI/version"
+require "SmashBrosCLI/cli"
 
 module SmashBrosCLI
   class Error < StandardError; end

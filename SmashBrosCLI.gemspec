@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       =  "Simple Ruby CLI app CHANGE LATER"
   spec.description   = " WIll be showing charachters CHANGE LATER"
-  spec.homepage      = "http://github/REPO URL GOES HERE"
+  spec.homepage      =  "http://github/REPO"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
   spec.metadata["allowed_push_host"] = "http://mygemserver.com"
