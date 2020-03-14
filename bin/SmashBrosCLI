@@ -1,7 +1,7 @@
-
+#!/usr/bin/env ruby
 
 
 require "bundler/setup"
 require "SmashBrosCLI"
 
-SmashBrosCLI::CLI.new.download
+SmashBrosCLI::CLI.new.start
